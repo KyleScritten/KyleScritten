@@ -1,7 +1,7 @@
 ## Hello World, Kyle Here! 👋
 
-- 🔭 I’m currently working on my first app for deployment
-- 🌱 I’m currently learning with the help from learn.microsoft.com
+- 🔭 I’m currently working on my first web app for deployment
+- 🌱 I’m currently learning with the help from Praesignis
 - 💬 Ask me about anything really, I can't promise I'll have the answer
 
 <p align="left">
